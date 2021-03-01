@@ -8,11 +8,6 @@ import { Vector3 } from '@babylonjs/core/Maths/math.vector';
 import { MachinaState, Transition } from 'xmachina';
 import { TrafficLightState, TrafficLightTransition } from './MachinaTypes';
 
-
-const onModelLoaded = (models: ILoadedModel) => {
-  console.log(models);
-}
-
 export enum PedestrianLightsToShow {
   None,
   Walk,
@@ -34,7 +29,6 @@ const Semaforo = (props: SemaforoProps) => {
   const loadedModel = useSceneLoader('models/semaforo/', 'semaforo.obj', undefined, {
     reportProgress: true,
     scaleToDimension: 2,
-    onModelLoaded: onModelLoaded,
     receiveShadows: true
   });
 
