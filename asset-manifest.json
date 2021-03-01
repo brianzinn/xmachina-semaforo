@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/xmachina-semaforo/static/css/main.509e7081.chunk.css",
-    "main.js": "/xmachina-semaforo/static/js/main.cbbcacf0.chunk.js",
-    "main.js.map": "/xmachina-semaforo/static/js/main.cbbcacf0.chunk.js.map",
+    "main.js": "/xmachina-semaforo/static/js/main.93dfea56.chunk.js",
+    "main.js.map": "/xmachina-semaforo/static/js/main.93dfea56.chunk.js.map",
     "runtime-main.js": "/xmachina-semaforo/static/js/runtime-main.ba421d82.js",
     "runtime-main.js.map": "/xmachina-semaforo/static/js/runtime-main.ba421d82.js.map",
     "static/js/2.4c7fc361.chunk.js": "/xmachina-semaforo/static/js/2.4c7fc361.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ba421d82.js",
     "static/js/2.4c7fc361.chunk.js",
     "static/css/main.509e7081.chunk.css",
-    "static/js/main.cbbcacf0.chunk.js"
+    "static/js/main.93dfea56.chunk.js"
   ]
 }
